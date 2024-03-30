@@ -1,0 +1,23 @@
+[
+    {
+        "path": ".\\test\\0433.wma",
+        "modified_date": 1709096274,
+        "size": 48086,
+        "current_extension": "wma",
+        "proper_extensions": "(wmv) - wmv"
+    },
+    {
+        "path": ".\\test\\testing.jpg",
+        "modified_date": 1709096275,
+        "size": 1024,
+        "current_extension": "jpg",
+        "proper_extensions": "(jpeg) - jpeg, (png) - png"
+    },
+    {
+        "path": ".\\test\\text.docx",
+        "modified_date": 1709096276,
+        "size": 2048,
+        "current_extension": "docx",
+        "proper_extensions": "(doc) - doc, (pdf) - pdf"
+    }
+]
